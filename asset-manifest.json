@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Civilization-6-Draft-Pick/static/css/main.550e4fb9.chunk.css",
+    "main.js": "/Civilization-6-Draft-Pick/static/js/main.5425960c.chunk.js",
+    "main.js.map": "/Civilization-6-Draft-Pick/static/js/main.5425960c.chunk.js.map",
+    "runtime-main.js": "/Civilization-6-Draft-Pick/static/js/runtime-main.6d15e9be.js",
+    "runtime-main.js.map": "/Civilization-6-Draft-Pick/static/js/runtime-main.6d15e9be.js.map",
+    "static/js/2.cd8798db.chunk.js": "/Civilization-6-Draft-Pick/static/js/2.cd8798db.chunk.js",
+    "static/js/2.cd8798db.chunk.js.map": "/Civilization-6-Draft-Pick/static/js/2.cd8798db.chunk.js.map",
+    "static/js/3.1cf08710.chunk.js": "/Civilization-6-Draft-Pick/static/js/3.1cf08710.chunk.js",
+    "static/js/3.1cf08710.chunk.js.map": "/Civilization-6-Draft-Pick/static/js/3.1cf08710.chunk.js.map",
+    "index.html": "/Civilization-6-Draft-Pick/index.html",
+    "static/css/main.550e4fb9.chunk.css.map": "/Civilization-6-Draft-Pick/static/css/main.550e4fb9.chunk.css.map",
+    "static/js/2.cd8798db.chunk.js.LICENSE.txt": "/Civilization-6-Draft-Pick/static/js/2.cd8798db.chunk.js.LICENSE.txt",
+    "static/media/pepe.jpg": "/Civilization-6-Draft-Pick/static/media/pepe.a272acee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d15e9be.js",
+    "static/js/2.cd8798db.chunk.js",
+    "static/css/main.550e4fb9.chunk.css",
+    "static/js/main.5425960c.chunk.js"
+  ]
+}
